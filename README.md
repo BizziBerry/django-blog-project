@@ -5,7 +5,7 @@
 ## 🎥 Demo
 
 ### Главная страница блога
-![Frontend](front.png)
+![Frontend]([front.png](https://github.com/BizziBerry/django-blog-project/blob/main/front.JPG))
 
 ### Админ-панель для управления контентом
 ![Admin Panel](admin.png)
