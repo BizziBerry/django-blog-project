@@ -1,6 +1,11 @@
 # Django Blog Project
-
 Мой первый блог на Django с современным дизайном и адаптивной версткой.
+
+## 🛠 Tech Stack
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ## 🎥 Demo
 
@@ -9,12 +14,6 @@
 
 ### Админ-панель для управления контентом
 ![Admin Panel](admin.JPG)
-
-## 🛠 Tech Stack
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ## 🚀 Features
 - Чистый и современный дизайн
