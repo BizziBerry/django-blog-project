@@ -2,12 +2,13 @@
 
 Мой первый блог на Django с современным дизайном и адаптивной версткой.
 
-## 🚀 Features
-- Чистый и современный дизайн
-- Адаптивная верстка
-- Админ-панель для управления контентом
-- Шрифт Montserrat
-- Кастомная цветовая палитра
+## 🎥 Demo
+
+### Главная страница блога
+![Frontend](front.png)
+
+### Админ-панель для управления контентом
+![Admin Panel](admin.png)
 
 ## 🛠 Tech Stack
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
@@ -15,6 +16,12 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
+## 🚀 Features
+- Чистый и современный дизайн
+- Адаптивная верстка
+- Админ-панель для управления контентом
+- Шрифт Montserrat
+- Кастомная цветовая палитра
 ## 📁 Project Structure
 ```
 MyBlog/
