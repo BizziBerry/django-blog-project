@@ -8,7 +8,7 @@
 ![Frontend]([front.png](https://github.com/BizziBerry/django-blog-project/blob/main/front.JPG))
 
 ### Админ-панель для управления контентом
-![Admin Panel](admin.png)
+![Admin Panel](admin.JPG)
 
 ## 🛠 Tech Stack
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
